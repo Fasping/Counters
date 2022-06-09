@@ -1,0 +1,61 @@
+.CounterOne{
+font-size: 20px;
+width:200px;
+margin:10px 50px;
+padding:30px;
+font-size:italic;
+background: rgb(238,174,202);
+background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+border:black 5px solid;
+border-color: #000;
+color:#000;
+}
+
+.ButtonOne1 {
+margin: 4px;
+text-decoration:none;
+font-weight:600;
+font-size:16px;
+color:#ffffff;
+padding-top:5px;
+padding-bottom:5px;
+padding-left:50px;
+padding-right:50px;
+background-color:#24da00;
+}
+/* Este es el estilo al poner el cursor encima del boton*/
+.boton-personalizado-2:hover {
+background-color:#000000;
+}
+.ButtonOne2 {
+    margin: 4px;
+text-decoration:none;
+font-weight:50;
+font-size:16px;
+color:#ffffff;
+padding-top:5px;
+padding-bottom:5px;
+padding-left:50px;
+padding-right:50px;
+background-color:#d61818;
+}
+/* Este es el estilo al poner el cursor encima del boton*/
+.boton-personalizado-2:hover {
+background-color:#000000;
+}
+.ButtonOne3 {
+    margin: 4px;
+text-decoration:none;
+font-weight:600;
+font-size:16px;
+color:#ffffff;
+padding-top:5px;
+padding-bottom:5px;
+padding-left:50px;
+padding-right:50px;
+background-color:#ff67e6;
+}
+/* Este es el estilo al poner el cursor encima del boton*/
+.boton-personalizado-2:hover {
+background-color:#000000;
+}
