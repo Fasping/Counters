@@ -20,7 +20,7 @@ const CounterOne = () => {
         <button className="ButtonOne1" onClick={increase}>
           Increase
         </button>
-        <button className="ButtonOne2" nClick={decrease}>
+        <button className="ButtonOne2" onClick={decrease}>
           Decrease
         </button>
         <button className="ButtonOne3"  onClick={reset}>
